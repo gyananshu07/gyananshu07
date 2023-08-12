@@ -78,5 +78,9 @@ Hi, I'm Gyananshu Kashyap, a web and app developer 👨🏻‍💻 from India. I
 </a>
 <div align="center">
 
+</br>
+
+[![Gyananshu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gyananshu07&theme=react-dark)](https://github.com/gyananshu07/github-readme-activity-graph)
+
 ### Show some ❤️ by starring some of the repositories!
 </div>
