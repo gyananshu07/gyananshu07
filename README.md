@@ -9,16 +9,10 @@
 
 <br>
 
-Hi, I'm Gyananshu Kashyap, a web and app developer 👨🏻‍💻 from India. I'm a creative problem-solving enthusiast and a product guy, with a constantly growing love for kick-ass products. I'm proud to say that **I can successfully center an element with CSS.** Besides Developing stuff, I play BGMI.
+Hi, I'm Gyananshu Kashyap :rocket:, a web and app developer 👨🏻‍💻 from India. I'm a creative problem-solving enthusiast and a product guy, with a constantly growing love for kick-ass products. I'm proud to say that **I can successfully center an element with CSS.** Besides Developing stuff, I play BGMI.
 
 
 <br>
-
-
-<!-- https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif -->
-<!-- <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" /> -->
-
-<img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
 
  - 📫 How to reach me: [gyankashyap02@gmail.com](mailto:[gyankashyap02@gmail.com);
  
@@ -28,7 +22,7 @@ Hi, I'm Gyananshu Kashyap, a web and app developer 👨🏻‍💻 from India. I
  
  </br>
 
-**Languages and Tools:**
+**:rocket: Languages and Tools:**
 <br>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
@@ -38,6 +32,13 @@ Hi, I'm Gyananshu Kashyap, a web and app developer 👨🏻‍💻 from India. I
 <code><img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+---
+
+**:rocket: Most used Languages:**
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyananshu07&layout=compact)
 
 
 ---
@@ -62,13 +63,14 @@ Hi, I'm Gyananshu Kashyap, a web and app developer 👨🏻‍💻 from India. I
 
 <hr>
 
+**💻 My Leetcode Stats**
+
+![](https://leetcard.jacoblin.cool/Gyananshu_gk?theme=light,unicorn)
+
 
 **📈 My GitHub Stats**
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gyananshu07&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
-
-
-</br></br>
+ <img src="https://github-readme-stats.vercel.app/api?username=gyananshu07&show_icons=true&theme=gotham" alt="gyananshu07" />
 
 <a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekMaira10&repo=COVID-19-Tracker&theme=dracula" />
@@ -82,7 +84,6 @@ Hi, I'm Gyananshu Kashyap, a web and app developer 👨🏻‍💻 from India. I
 
 [![Gyananshu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gyananshu07&theme=react-dark)](https://github.com/gyananshu07/github-readme-activity-graph)
 
-![snake gif](https://github.com/gyananshu07/gyananshu07/blob/output/github-contribution-grid-snake.gif)
 
 ### Show some ❤️ by starring some of the repositories!
 </div>
