@@ -25,12 +25,13 @@
     <img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/linkedin.png?raw=true"> Gyananshu Kashyap</a>
 
 <br>
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=gyananshu07" alt="gyananshu07">
 
 <h2>:rocket: Languages and Tools Used:</h2>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,js,express,nodejs,html,css,bootstrap,materialui,mongodb,mysql,c,cpp,java,ps,ai,figma,github,vscode,git,postman" alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=next,react,js,express,nodejs,html,css,bootstrap,materialui,mongodb,mysql,c,cpp,java,ps,ai,figma,github,vscode,git,postman" alt="My Skills">
 </a>
 
 <h2>:rocket: Most used Languages:</h2>
@@ -84,7 +85,7 @@
 
 <br />
 
-<div>
+<div class="center">
     <h3>Show some ❤️ by starring some of the repositories!</h3>
 </div>
 
