@@ -22,7 +22,8 @@
 <a href="mailto:gyankashyap02@gmail.com">📫 gyankashyap02@gmail.com</a>
 
 <a href="https://www.linkedin.com/in/gyananshu-kashyap/" target="_blank">
-    <img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/linkedin.png?raw=true"> Gyananshu Kashyap</a>
+    <img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/linkedin.png?raw=true" /> Gyananshu Kashyap
+</a>
 
 <br>
 <br>
@@ -31,7 +32,7 @@
 
 <h2>:rocket: Languages and Tools Used:</h2>
 
-<img src="https://skillicons.dev/icons?i=next,react,js,express,nodejs,html,css,bootstrap,materialui,mongodb,mysql,c,cpp,java,ps,ai,figma,github,vscode,git,postman" alt="My Skills">
+<img src="https://skillicons.dev/icons?i=next,react,js,ts,express,nodejs,html,css,bootstrap,materialui,mongodb,mysql,c,cpp,java,ps,ai,figma,github,vscode,git,postman" alt="My Skills">
 
 <h2>:rocket: Most used Languages:</h2>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyananshu07&layout=compact" alt="Top Languages">
