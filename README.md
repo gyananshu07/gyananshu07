@@ -1,91 +1,108 @@
-<h1>
-    <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
-    Hello There!
-</h1>
+# Hi, I'm Gyananshu Kashyap 👋
 
-<p>
-    Greetings! I'm Gyananshu Kashyap! 🚀 A web and app developer from India, passionate about crafting awesome products. I've mastered CSS wizardry and love coding, conquering, and dominating BGMI 🎮.
-</p>
+### Full-Stack AI Engineer | React • Next.js • Node.js • FastAPI • LLMs
 
-<p>
-    A proud '23 grad of MMMUT, specializing in Electronics and Communications 📡. Superpower? Learning! Frontend is where I shine, wielding React.js and Figma to conjure pixel-perfect designs 🎨.
-</p>
+I'm a Full-Stack AI Engineer with 3+ years of experience building AI-powered products and scalable SaaS applications.
 
-<p>
-    I transform ideas into reality with React.js magic, making web apps dance across screens 🌐. I'm a trend-chaser, keeping my skills sharp 🔪. My DNA thrives on tech, creativity, and problem-solving, making me your go-to frontend wizard 🦸‍♂️. Let's collaborate and create brilliance! 🚀🔥
-</p>
+Currently building production-grade AI systems involving:
 
-<p>
-    I'm open to freelance work related to 🌐Website Development! 🚀🔥
-</p>
+- RAG pipelines
+- Vector databases (Pinecone)
+- OpenAI & Claude integrations
+- AI chat applications
+- Image generation workflows
+- FastAPI & Node.js backends
+- React & Next.js frontends
 
-<a href="mailto:gyankashyap02@gmail.com">📫 gyankashyap02@gmail.com</a>
+---
 
-<a href="https://www.linkedin.com/in/gyananshu-kashyap/" target="_blank">
-    <img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/linkedin.png?raw=true" /> Gyananshu Kashyap
-</a>
+## 🚀 About Me
 
-<br>
-<br>
+- 💼 Associate Software Engineer at HestaBit
+- 🤖 Building AI-powered marketing and research platforms
+- 🌱 Currently learning Agentic AI, LangGraph, Advanced RAG & AI System Design
+- 🏆 Solving DSA regularly on LeetCode
+- ⚡ Interested in Full-Stack AI Engineering, Distributed Systems and Product Development
 
-<img src="https://komarev.com/ghpvc/?username=gyananshu07" alt="gyananshu07">
+---
 
-<h2>:rocket: Languages and Tools Used:</h2>
+## 🛠 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=next,react,js,ts,express,nodejs,html,css,bootstrap,materialui,mongodb,mysql,c,cpp,java,ps,ai,figma,github,vscode,git,postman" alt="My Skills">
+### AI / ML
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge)
+![Claude](https://img.shields.io/badge/Claude-black?style=for-the-badge)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-blue?style=for-the-badge)
+![Embeddings](https://img.shields.io/badge/Embeddings-green?style=for-the-badge)
 
-<h2>:rocket: Most used Languages:</h2>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyananshu07&layout=compact" alt="Top Languages">
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![NextJS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql)
 
-<h2>📢 Find me elsewhere</h2>
-<a href="https://leetcode.com/abhishekmaira1999/">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="leetcode">
-</a>
-<a href="https://www.hackerrank.com/gyankashyap02">
-    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="hackerrank">
-</a>
+### Backend
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
 
-<hr>
+### DevOps & Cloud
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions)
 
-<h3>💻 My Leetcode Stats</h3>
-<img src="https://leetcard.jacoblin.cool/Gyananshu_gk?theme=light,unicorn" alt="Leetcode Stats">
+---
 
-<h3>📈 My GitHub Stats</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=gyananshu07&show_icons=true&theme=gotham" alt="GitHub Stats">
+## 🌟 Featured Projects
 
-<br />
-<br />
+### 🤖 LeetCode AI Mentor
+AI-powered coding mentor built using Next.js, FastAPI, MongoDB and OpenAI.
 
-<div>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=gyananshu07&theme=react-dark" alt="GitHub Activity Graph">
-</div>
+**Features**
+- Code reviews
+- Complexity analysis
+- Optimization suggestions
+- Session history
 
-<h3>🎨 My Projects:</h3>
+### 🧠 AI Research Assistant
+Built AI workflow that:
+- Converts research queries into embeddings
+- Searches PubMed via vector similarity
+- Generates AI summaries
+- Exports PDF/DOCX reports
 
-<div style="display: flex; flex-direction:row; flex-wrap: wrap; justify-content: space-between;">
-    <div style="flex-basis: calc(33.33% - 20px); margin-bottom: 20px;">
-        <h4>Anemia Mukt Bharat (Official Government Website)</h4>
-        <a href="https://github.com/gyananshu07/gyananshu07/assets/81867317/67c2af3d-a12b-40ee-9e45-ad027f421f66">
-            <img src="https://github.com/gyananshu07/gyananshu07/assets/81867317/67c2af3d-a12b-40ee-9e45-ad027f421f66" alt="Anemia Mukt Bharat">
-        </a>
-    </div>
-    <div style="flex-basis: calc(33.33% - 20px); margin-bottom: 20px;">
-        <h4>BookYourHotel App (React Native App)</h4>
-        <a href="https://github.com/gyananshu07/gyananshu07/assets/81867317/1307d958-b2a2-41b5-b3ef-37aa87a165c3">
-            <img src="https://github.com/gyananshu07/gyananshu07/assets/81867317/1307d958-b2a2-41b5-b3ef-37aa87a165c3" alt="BookYourHotel App">
-        </a>
-    </div>
-    <div style="flex-basis: calc(33.33% - 20px); margin-bottom: 20px;">
-        <h4>Training & Placement Cell Website (Official College's T&P Website)</h4>
-        <a href="https://github.com/gyananshu07/gyananshu07/assets/81867317/65564939-2842-4b70-824c-520fe2105b2e">
-            <img src="https://github.com/gyananshu07/gyananshu07/assets/81867317/65564939-2842-4b70-824c-520fe2105b2e" alt="T&P Cell Website">
-        </a>
-    </div>
-</div>
+### 🎨 AI Creative Generation Platform
+Built image generation workflows using:
+- OpenAI Image APIs
+- Nano Banana
+- Celery Workers
+- Real-time status tracking
 
-<br />
+---
 
-<div class="center">
-    <h3 class="center">Show some ❤️ by starring some of the repositories!</h3>
-</div>
+## 📊 GitHub Stats
 
+![](https://github-readme-stats.vercel.app/api?username=gyananshu07&show_icons=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=gyananshu07)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gyananshu07&layout=compact)
+
+---
+
+## 📈 LeetCode
+
+![](https://leetcard.jacoblin.cool/Gyananshu_gk)
+
+---
+
+## 📫 Connect With Me
+
+- Email: **gyankashyap02@gmail.com**
+- LinkedIn: **linkedin.com/in/gyananshu-kashyap**
+- LeetCode: **leetcode.com/u/Gyananshu_gk**
+
+---
+
+> Building AI products that solve real-world problems.
